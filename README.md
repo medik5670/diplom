@@ -69,3 +69,17 @@ Git, JDK 11, IntelliJ IDEA, Docker, Docker Compose.
 В консоли «Run Anything» (двойное нажатие Ctrl) выполнить команду: `./gradlew allureServe`.
 Отчет сгенерируется на основе результатов последнего прогона тестов и автоматически откроется в браузере.
 По окончании работы с отчетом необходимо завершить выполнение процесса allureServe, нажав Ctrl + F2 во вкладке «Run» терминала.
+###Отчёт Allure
+![21](https://github.com/user-attachments/assets/5a539ed1-9c30-4526-b335-e68e19cbc4d2)
+###Скриншот отчёта для сервиса платежей (Оплата по карте):
+![23](https://github.com/user-attachments/assets/9707a6b6-051f-4d7a-b824-1433ed40cd92)
+![24](https://github.com/user-attachments/assets/6ba714af-29f9-41d4-96a4-006863a0e61e)
+###Скриншот отчёта для сервиса платежей (В кредит о данным карты):
+![image](https://github.com/user-attachments/assets/e1d86128-f33d-4863-988b-e02482b21bbe)
+![image](https://github.com/user-attachments/assets/1f4df4cc-25a8-494c-9a80-3666c3c17985)
+###Скриншот отчета: Отправка запросов с реквизитами карт на API
+![image](https://github.com/user-attachments/assets/31fcf0f2-02e8-45f9-b14c-72ea9bc08fb3)
+
+
+
+
